@@ -1,1 +1,2 @@
 Test text of the LocalFile
+Test text of the LoclaFile from the distant repository
